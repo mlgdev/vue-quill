@@ -1,3 +1,6 @@
+# MLG NOTES
+eve-core admin uses this, the build processs was having issues with compiling a es6 file here (GrammerlyInline.js). The easiest solution was to fork this with a compiled version of that file. It should be revisted in the near future.
+
 # vue-quill
 A vue component wrapping the quill editor
 
